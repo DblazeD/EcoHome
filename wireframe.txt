@@ -1,0 +1,33 @@
+WIREFRAME — ECOHOME
+Metodologías de Diseño UX
+Estudiante: Deiby Jair Portillo Ordoñez
+
+1. ENCABEZADO
+[Logo EcoHome] [Inicio] [Productos] [Beneficios] [Nosotros] [Contacto]
+
+2. HERO
+[Texto principal: Haz tu hogar más inteligente.]
+[Descripción]
+[Botón: Explorar productos]
+[Área visual: hogar conectado + beneficios]
+
+3. PRODUCTOS
+[Producto 1] [Producto 2] [Producto 3]
+[Producto 4] [Producto 5] [Producto 6]
+
+4. BENEFICIOS
+[Ahorro energético] [Mayor seguridad] [Control desde celular] [Sostenibilidad]
+
+5. SOBRE ECOHOME
+[Propósito de la empresa] [Descripción]
+
+6. CONTACTO
+[Nombre]
+[Correo]
+[Producto de interés]
+[Mensaje]
+[Botón: Quiero contactar a EcoHome]
+[Mensaje de error / confirmación]
+
+7. PIE DE PÁGINA
+[Logo + descripción] [Derechos reservados]
